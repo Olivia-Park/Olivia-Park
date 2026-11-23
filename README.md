@@ -2,8 +2,7 @@
 
 # Hi there 👋 I'm 박지원
 
-**IT 서비스 기획자 · PM**  
-웹 · 앱 · AI 서비스를 처음부터 끝까지 기획하고, 이제는 직접 만들기까지 합니다.
+AI와 함께라서 더 재밌는 요즘.
 
 [![Email](https://img.shields.io/badge/Email-tmehd9603%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:tmehd9603@naver.com)
 
@@ -13,7 +12,6 @@
 
 ### 🙋‍♀️ About Me
 - 🧭 사용자 인터뷰부터 출시·운영까지 서비스 전 과정을 직접 기획하는 PM
-- 📱 소상공인·배달기사 대상 앱 서비스와 AI 서비스 기획·출시 경험
 - 💳 PG 플랫폼 기획 · 정부과제 UX/UI 기획 경험
 - 🤖 요즘은 AI 에이전트와 함께 생활 서비스를 직접 개발하는 중
 
